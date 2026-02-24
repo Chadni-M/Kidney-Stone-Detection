@@ -56,14 +56,6 @@ Kidney stone detection is critical for timely treatment and better patient outco
 
 ---
 
-## 🔹 Project Structure
-
-kidney-stone-detection/
-└── Copy_of_KidneyStoneDetectionFinal.ipynb   <- Your notebook
-└── README.md                       <- Describe what the project does and where to get the dataset
-
----
-
 ## 🔹 Code Snippets
 
 - Loading and visualizing labeled training images.  
