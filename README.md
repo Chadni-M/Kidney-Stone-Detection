@@ -59,22 +59,8 @@ Kidney stone detection is critical for timely treatment and better patient outco
 ## 🔹 Project Structure
 
 kidney-stone-detection/
-│
-├── data/                   # Dataset (images & labels in YOLOv8 format)
-│   ├── train/
-│   ├── val/
-│   └── test/
-│
-├── notebooks/              # Jupyter/Colab notebooks
-│   └── training_and_evaluation.ipynb
-│
-├── src/                    # Python scripts
-│   ├── train_model.py
-│   ├── evaluate_model.py
-│   └── detect_stones.py
-│
-├── requirements.txt        # Python dependencies
-└── README.md
+└── Copy_of_KidneyStoneDetectionFinal.ipynb   <- Your notebook
+└── README.md                       <- Describe what the project does and where to get the dataset
 
 ---
 
